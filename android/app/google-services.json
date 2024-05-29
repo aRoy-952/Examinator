@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805783725400",
+    "project_id": "fir-b2caf",
+    "storage_bucket": "fir-b2caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805783725400:android:4917c52e5e3656af18f12d",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTuBwy4S-CKVEs2VOGuYbwKtRp9RMUrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805783725400:android:ff2d85fcf520e85e18f12d",
+        "android_client_info": {
+          "package_name": "com.example.examinator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTuBwy4S-CKVEs2VOGuYbwKtRp9RMUrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
